@@ -1,6 +1,6 @@
 # Scam Detection with Naïve Bayes and Active Learning
 
-This project applies a multinomial Naïve Bayes model to detect scam messages, and explores the use of active learning to improve model performance. A supervised baseline model is compared against a semi-supervised model trained using selected informative instances. The analysis focuses on model representation, word-level feature importance, and classification confidence.
+This project applies a multinomial Naïve Bayes model to detect scam messages, and explores the use of active learning to improve model performance. A supervised baseline model is compared against a semi-supervised model trained using selected informative instances. The analysis focuses on model representation, feature importance, and classification confidence.
 
 ## Files Included
 
